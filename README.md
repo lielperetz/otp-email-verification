@@ -14,4 +14,4 @@ cd encourse challenge
 npm run dev
 ```
 
-  Login sagi@encourse.com
+  Login: sagi@encourse.com
