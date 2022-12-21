@@ -9,3 +9,6 @@ username varchar(50),
 email varchar(50) unique,
 otp varchar(6),
 otp_time varchar(50))
+
+INSERT INTO Users VALUES 
+('sagi', 'sagi@encourse.com', null, null)
